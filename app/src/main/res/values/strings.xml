@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proxy</string>
+    <string name="video_title">Matter</string>
+    <string name="video_description">Matter in our Surroundings</string>
+    <string name="video_duration">17.32</string>
+   <string name="proxy">ProxyNotes</string>
+
+</resources>
